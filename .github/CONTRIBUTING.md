@@ -1,4 +1,4 @@
-# Contributing
+# Contributing.
 
 So you want to contribute to atomic-crm? Awesome! Thank you in advance for your contribution. Here are a few guidelines that will help you along the way.
 
